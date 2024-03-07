@@ -35,9 +35,9 @@ distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
-CIRCUIT DIAGRAM
+### CIRCUIT DIAGRAM
 ![Screenshot 2024-03-07 112346](https://github.com/sanjaysivaramakrishnan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151629616/71963344-1dd0-4d80-837c-4bbceae17958)
-SCHEMATIC DIAGRAM
+### SCHEMATIC DIAGRAM
 ![WhatsApp Image 2024-03-07 at 11 27 46_8183d956](https://github.com/sanjaysivaramakrishnan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151629616/f20db58e-c66c-44fc-8672-07cf71f52878)
 
 
