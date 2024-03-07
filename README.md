@@ -115,7 +115,7 @@ void loop()
 			Average error = sum/ number of readings 
  
 
-###GRAPH
+### GRAPH
 ![WhatsApp Image 2024-03-07 at 11 22 13_deb9a168](https://github.com/sanjaysivaramakrishnan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151629616/1e1618c2-8958-496d-8f49-568383cb6f2d)
 
 
